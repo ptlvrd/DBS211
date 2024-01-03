@@ -1,2 +1,2 @@
 # DBS211
-This GitHub repository houses all the assignments completed for my DBS211 course. Each assignment demonstrates proficiency in various database concepts, including data modeling, schema design, SQL queries, and database management. It serves as a comprehensive showcase of my skills and knowledge in the field of databases.
+This GitHub repository houses all the assignments completed for my database course in the class section NBB, taught by Professor Ayesha Manzer. Each assignment demonstrates proficiency in various database concepts, including data modeling, schema design, SQL queries, and database management. It serves as a comprehensive showcase of my skills and knowledge in the field of databases under the guidance of Professor Ayesha Manzer.
