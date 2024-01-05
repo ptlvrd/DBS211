@@ -4,4 +4,7 @@ Here is the list of marks scored for the 10 labs throughout the course:
 
 L01: 10/10
 L02: 10/10
-
+L03: 10/10
+L04: 10/10
+L05: 10/10
+L06: 10/10
