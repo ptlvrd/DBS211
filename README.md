@@ -8,3 +8,10 @@ L03: 10/10
 L04: 10/10
 L05: 10/10
 L06: 10/10
+L07: 10/10
+L08: 06/10  feedback;Seneca College table is not correct as there will be only one college.
+                     Section is missing in bridge table between Professor and course.
+                     FK is missing in Professor.
+                     Bridge tables are missing like enroll between student and course amd Program and course.
+                     
+
