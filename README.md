@@ -13,5 +13,5 @@ L08: 06/10  feedback;Seneca College table is not correct as there will be only o
                      Section is missing in bridge table between Professor and course.
                      FK is missing in Professor.
                      Bridge tables are missing like enroll between student and course amd Program and course.
-                     
-
+L09: 10/10
+L10: 08/10  feedback;QtyOrd and Price belongs to bridge table in 2NF. Part table is missing in 3NF.
